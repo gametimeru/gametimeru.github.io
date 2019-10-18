@@ -1,0 +1,48 @@
+H1 {
+    color: wheat;
+    font-size: 200%;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: hsla(200,13%,17%, 0.5);
+    color: silver; /* Цвет текста */
+    padding: 2px;
+    text-shadow: 1px 1px 5px black;
+  }
+  H2 {
+    color: wheat;
+    font-size: 115%;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    color: silver; /* Цвет текста */
+    padding: 2px;
+    text-shadow: 1px 1px 5px black;
+  }
+  P {
+    font-family: Intro;
+    text-align: center;
+    font-size: 150%;
+    background-color: hsla(200,13%,17%, 0.5);
+    color: whitesmoke;
+    padding: 7px;
+    text-shadow: 2px 2px 5px black;
+  }
+
+  P2 {
+    font-family: Segoe print;
+    text-align: center;
+    vertical-align: top;
+    font-size: 95%;
+    color: whitesmoke;
+    padding: 7px;
+    text-shadow: 2px 2px 5px black;
+  }
+  
+  body{
+    
+        background: #c7b39b url(images/bg.jpg);
+  }
+
+  a:link {font-size:18px; color:#ff0000;}
+  a:visited {font-size:18px; color: silver;}
+  a:hover {font-size:18px; color:#ffffff;}
+  a:active {font-size:18px; color:#0000ff;}
