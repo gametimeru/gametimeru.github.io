@@ -18,6 +18,13 @@ H1 {
     text-shadow: 2px 2px 5px black;
   }
   
+  a1 {
+
+    height: 30px;
+    width: 20px;
+
+  }
+
   body{
     
         background: #c7b39b url(images/bg.jpg);
